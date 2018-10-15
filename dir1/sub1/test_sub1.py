@@ -1,3 +1,3 @@
 print "Hello World"
-print "dir1"
+print "dir"
 print "sub1"

@@ -1,2 +1,2 @@
 print "Hello World"
-print "dir2"
+print "dir"
